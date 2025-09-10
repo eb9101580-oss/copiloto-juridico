@@ -1,7 +1,6 @@
 streamlit
-faiss-cpu
 sentence-transformers
+faiss-cpu
 transformers
 torch
 numpy
-sqlite3
